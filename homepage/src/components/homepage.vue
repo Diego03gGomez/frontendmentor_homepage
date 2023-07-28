@@ -43,8 +43,8 @@
 <div class="div1"><img src="https://ryusuke66.github.io/news-homepage-main/assets/images/image-web-3-desktop.jpg" alt=""></div>
 <div class="div2">
 
-<div class="div2_1"><h1>The Bright <br>
-Future of <br> Web 3.0?</h1></div>
+<div class="div2_1"><h1>The Bright
+Future of Web 3.0?</h1></div>
 <div class="div2_2">
 <p>We divide into the next evolution of the web that <br>
 claims to put the power of the plattaforms back <br>
