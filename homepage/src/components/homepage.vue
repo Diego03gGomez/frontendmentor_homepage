@@ -116,8 +116,7 @@ fulfilling its promise?</p>
 
 <div class="card">
     <div class="img_card">
-        <img src="
-https://ryusuke66.github.io/news-homepage-main/assets/images/image-gaming-growth.jpg" alt="">
+        <img src="https://casualhardcoregamer.fr/wp-content/uploads/2022/06/Comment-connecter-une-manette-sans-fil-sur-PC--611x1024.jpeg" alt="">
     </div>
 <div class="des_card">
     <h2>03</h2>
