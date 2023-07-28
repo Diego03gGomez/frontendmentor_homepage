@@ -110,8 +110,14 @@ padding: 30px;
 
 .img_card img{
 width: 100%;
+width: 100px;
 height: 120px;
+height: 140px;
 object-fit: cover;
+}
+
+.img_card{
+ /* background-color: rebeccapurple;*/
 }
 .cont_cards{
   display: grid;
@@ -126,6 +132,8 @@ object-fit: cover;
   display: flex;
   font-size: 15px;
   gap: 20px;
+  align-items: center;
+  
 }
 
 
